@@ -1,0 +1,21 @@
+#menuprincipal {
+  color: darkred;
+  font-weight: bolder;
+  font-size: larger;
+}
+#titulo1 {
+  color: darksalmon;
+  font-weight: bolder;
+}
+#titulo2 {
+  color: navy;
+  font-weight: bolder;
+}
+#parrafo1 {
+  color: orchid;
+  font-weight: bolder;
+}
+#parrafo2 {
+  color: powderblue;
+  font-weight: bolder;
+}

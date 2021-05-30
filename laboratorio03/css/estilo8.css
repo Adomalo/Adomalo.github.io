@@ -1,0 +1,65 @@
+* {
+  padding: 10px;
+}
+.body {
+  background-color: orchid;
+}
+.contenedor {
+  background-color: white;
+}
+
+.parrafo1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.parrafo2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.parrafo3 {
+  font-style: italic;
+}
+.parrafo4 {
+  font-style: oblique;
+}
+.parrafo5 {
+  font-style: normal;
+}
+.parrafo6 {
+  font-weight: bold;
+}
+.parrafo7 {
+  font-weight: bolder;
+}
+.parrafo8 {
+  font-variant: small-caps;
+}
+.parrafo9 {
+  font-variant: normal;
+}
+.parrafo10 {
+  font-size: 15px;
+}
+
+@font-face {
+  font-family: "Schoolbell";
+  src: url("/fonts/Schoolbell-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Reggae One";
+  src: url("/fonts/ReggaeOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Nerko One";
+  src: url("/fonts/NerkoOne-Regular.ttf");
+}
+.parrafo11 {
+  font-family: "Schoolbell";
+}
+.parrafo12 {
+  font-family: "Reggae One";
+}
+.parrafo13 {
+  font-family: "Nerko One";
+}

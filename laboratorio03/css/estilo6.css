@@ -1,0 +1,29 @@
+body {
+  background-color: purple;
+}
+/* definiendo el alt y el ancho de una caja */
+.contenedor {
+  background-color: seagreen;
+  width: 1024;
+  height: 768;
+  margin: auto;
+}
+.caja1 {
+  background-color: slateblue;
+  width: 350px;
+  height: 110px;
+  margin-left: 150px;
+}
+.caja2 {
+  background-color: tomato;
+  width: 450px;
+  height: 200px;
+  margin-top: 250px;
+  margin-right: 80px;
+}
+.caja3 {
+  background-color: indigo;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}

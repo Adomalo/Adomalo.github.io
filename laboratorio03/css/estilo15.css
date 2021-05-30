@@ -1,0 +1,25 @@
+.caja1 {
+  width: 300px;
+  margin: auto;
+  border: 5px solid slateblue;
+}
+
+.caja2 {
+  max-width: 300px;
+  margin: auto;
+  border: 5px solid green;
+}
+
+.contenedor {
+  width: 95%;
+  height: 400px;
+  margin: auto;
+  background-color: hotpink;
+}
+.contenedor2 {
+  width: 95%;
+  max-width: 800%;
+  height: 400px;
+  margin: auto;
+  background-color: lavender;
+}
