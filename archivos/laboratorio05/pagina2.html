@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firebase - Parte 1</title>
+    <link rel="stylesheet" type="text/css" href="css/estilos.css">
+</head>
+<body>
+    <form action="register">
+        <h4>Registro de Producto</h4>
+        <label for="txtNom">Nombre:</label>
+        <input class="controls" type="text" name="txtNom" id="txtNom" placeholder="Nombre producto">
+        <br>
+        <label for="txtPre">Precio del producto:</label>
+        <input class="controls" type="number" name="txtPre" id="txtPre">
+        <br>
+        <label for="">Categoría:</label>
+        <select class="controls" name="cboCategoría" id="cboCategoría">
+            <option value="0">Seleccione una categoría</option>
+            <option value="1">Entretenimiento</option>
+            <option value="2">Tecnología</option>
+            <option value="3">Linea Blanca</option>
+        </select>
+        <br>
+        <label for="txtCan">Cantidad:</label>
+        <input class="controls" type="number" name="txtCan" id="txtCan">
+        <br>
+        <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>
+        <input class="boton" type="button" value="Registrar" id="btnRegistrar" name="btnRegistrar">
+        <p><a href="#">¿Ya tengo cuenta?</a></p>
+    </form>
+</body>
+</html>
